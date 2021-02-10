@@ -1,0 +1,7 @@
+pandas
+pyautogui
+click
+colorama
+xlrd
+openpyxl
+pyxlsb
